@@ -1,12 +1,13 @@
 ---
+title: Juan Lezama
+role: Professor of MOOC
+avatar_filename: photo-1.jpeg
 organizations:
   - name: Bnei Baruch Kabbalah Education & Research Institute
     url: https://www.kabbalah.info/
 superuser: true
 authors:
   - admin
-title: Juan Lezama
-role: Professor of MOOC
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -34,7 +35,7 @@ education:
     - course: Occupational health and safety
       institution: Universidad de Los Andes
       year: 2010
-    - course: BSc in Nursing
+    - course: Nursing
       institution: Universidad de Los Andes
       year: 2008
 email: ""

@@ -19,9 +19,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/juanlezama
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - link: https://www.linkedin.com/in/juanlezama
     icon_pack: fab
     icon: linkedin

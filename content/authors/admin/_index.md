@@ -8,8 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My work interests is integral education, diffusion
 interests:
   - Integral Education
   - Diffusion
@@ -26,6 +25,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/juanlezamaofficial
+  - link: https://www.linkedin.com/in/juanlezama
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: Kabbalah

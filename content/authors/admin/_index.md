@@ -1,10 +1,10 @@
 ---
 title: Juan Lezama
-role: Professor of MOOC
+role: Founder | CEO | Professor
 avatar_filename: photo-1.jpeg
 organizations:
-  - name: Bnei Baruch Kabbalah Education & Research Institute
-    url: https://www.kabbalah.info/
+  - name: UIEProject
+    url: https://uieproject.github.io
 superuser: true
 authors:
   - admin
@@ -29,16 +29,16 @@ social:
     link: https://github.com/juanlezamaofficial
 education:
   courses:
-    - course: Neuroethic
+    - course: Kabbalah
+      institution: Bnei Baruch Kabbalah Education & Research Institute
+      year: ""
+    - course: Administración de negocios
+      institution: Universidad Nacional Abierta
+      year: ""
+    - course: Periodismo en medios digitales
       institution: Universidad de Los Andes
-      year: 2012
-    - course: Occupational health and safety
-      institution: Universidad de Los Andes
-      year: 2010
-    - course: Nursing
-      institution: Universidad de Los Andes
-      year: 2008
-email: ""
+      year: ""
+email: juanlezama@pm.me
 user_groups:
   - Researchers
   - Visitors

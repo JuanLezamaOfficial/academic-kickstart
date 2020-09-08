@@ -11,9 +11,8 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Integral Education
+  - Diffusion
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,6 +42,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Juan Lezama is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I study kabbalah according to the method of Rabbi Yehuda Leib HaLevi Ashlag (Baal HaSulam) in Bnei Baruch Institute, a master business administration in the National University Open and a specialty in digital journalism at the University of The Andes, I am at this moment developing the special work of degree, my research line is about the human connection based on the kabbalah science and its practical application in all aspect the human condition; as well as its effect on the human responses.\
+\
+\
+As professional, I have the skills conceptual, procedural, and attitudinal for human care and the care of their companies, throughout all aspects of your vital cycle, since before her conception and until after his death.\
+\
+\
+Author and independent producer, founder and past president of Rotary E-club 4380, Bolivarian Society of Venezuela member, Bachelor of science human care and nursing for the University of The Andes, experience on teaching in the higher education, course not conducive to academic degree in occupational medicine and traditional Chinese medicine, management of non-profit organizations, corporate social responsibility, public management, local development and E-government.

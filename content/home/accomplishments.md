@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Kabbalah"
   url = ""
   certificate_url = "https://cabalacentroestudios.com/curso/"
-  date_start = "2011"
+  date_start = "2011-10-01"
   date_end = ""
   description = "Introducción a la Sabiduría de la Cabalá"
 

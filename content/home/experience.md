@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "UIEProject"
   company_url = "https://uieproject.github.io/"
   location = "Mérida"
-  date_start = "2020-09-01"
+  date_start = "2020-08-01"
   date_end = ""
   description = """
   Responsibilities include:

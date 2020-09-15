@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "World"
   date_start = "2020-09-10"
   date_end = ""
-  description = """Taught human connection and researched about kabbalah method."""
+  description = """I Teach human connection and researched about kabbalah method."""
 
 +++

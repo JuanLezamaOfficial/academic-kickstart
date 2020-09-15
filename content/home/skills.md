@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-heart"
+  icon = "heart"
   icon_pack = "fas"
   name = "Kabbalah"
   description = "100%"
   
 [[feature]]
-  icon = "fa-teamspeak"
+  icon = "teamspeak"
   icon_pack = "fab"
   name = "Public speaking"
   description = "100%"  

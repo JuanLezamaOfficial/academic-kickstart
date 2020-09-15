@@ -1,7 +1,7 @@
 ---
 title: Juan Lezama
 role: Founder | CEO | Professor
-avatar_filename: photo-1.jpeg
+avatar_filename: ""
 organizations:
   - name: UIEProject
     url: https://uieproject.github.io

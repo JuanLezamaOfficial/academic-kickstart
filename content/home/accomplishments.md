@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Bnei Baruch Kabbalah Education & Research Institute"
+  organization = "Bnei Baruch Kabbalah Education And Research Institute"
   organization_url = "https://www.kabbalah.info"
   title = "Kabbalah"
   url = ""
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Blockchain Fundamentals"
   url = ""
   certificate_url = "https://community.civil.co/"
-  date_start = ""
+  date_start = "2019-07-15"
   date_end = "2019-12-10"
   description = "Blockchain-based media platform for trustworthy journalism owned and operated by the public."
   

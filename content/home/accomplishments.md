@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Blockchain-based media platform for trustworthy journalism owned and operated by the public."
   
 [[item]]
-  organization = "MZTIZO"
+  organization = "MEZTIZO"
   organization_url = "https://meztizomusic.blogspot.com/"
   title = "MEZTIZO Álbum Discográfico"
   url = ""

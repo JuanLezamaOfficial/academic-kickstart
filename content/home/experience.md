@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  company = "UIEProject"
+  company_url = "https://uieproject.github.io/"
+  location = "Mérida"
+  date_start = "2020-09-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -34,11 +34,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  company = "University X"
-  company_url = ""
+  company = "UIEProject"
+  company_url = "https://uieproject.github.io/teacher/juan-lezama"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2020-09-10"
+  date_end = ""
+  description = """Taught human connection and researched about kabbalah method."""
 
 +++

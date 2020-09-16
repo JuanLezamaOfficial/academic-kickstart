@@ -14,7 +14,7 @@ categories:
 projects:
   - Blog
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: true
   caption: Art by Juan Lezama

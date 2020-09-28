@@ -34,7 +34,7 @@ image:
 projects: []
 ---
 
-¡Hola!, soy Juan Lezama, este proyecto está produciendo contenidos para la difusión de la ciencia y su diseminación, la temática es la educación integral
+¡Hola!, soy Juan Lezama, este proyecto está produciendo contenidos para la difusión de la ciencia y su diseminación, la temática es la educación integra.l
 
 Para la realización de este proyecto utilizo Academic theme, Hugo, Netlify, GitHub, Gimp, Vim, Arch Linux, un laptop Compaq Presario C700.
 

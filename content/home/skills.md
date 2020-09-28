@@ -21,9 +21,9 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "teamspeak"
-  icon_pack = "fab"
-  name = "Public speaking"
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Learning & Teaching"
   description = "100%"  
   
 [[feature]]

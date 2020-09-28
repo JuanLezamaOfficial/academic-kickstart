@@ -1,6 +1,6 @@
 ---
 title: Juan Lezama
-role: Founder | CEO | Professor
+role: Cyberjournalist
 avatar_filename: ""
 organizations:
   - name: UIEProject
@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My work interests is integral education, diffusion
+bio: Scientific diffusion
 interests:
   - Integral Education
   - Diffusion

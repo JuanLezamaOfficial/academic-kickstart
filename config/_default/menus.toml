@@ -9,24 +9,49 @@
   weight = 10
 
 [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 20
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 50
+
+[[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 60
+
+[[main]]
+  name = "Courses"
+  url = "courses"
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
+
+[[main]]
+  name = "FAQ"
+  url = "https://forms.gle/tVt1ed4NyQ3WS9R66"
+  weigt = 90
+
+[[main]]
+  name = "Store"
+  url = "https://juanlezama.threadless.com/"
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
